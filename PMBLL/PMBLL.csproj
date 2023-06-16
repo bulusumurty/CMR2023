@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.Support" Version="4.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0-preview.3.22175.4" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PMBOL\PMBOL.csproj" />
+    <ProjectReference Include="..\PM_DAL\PM_DAL.csproj" />
+  </ItemGroup>
+
+</Project>

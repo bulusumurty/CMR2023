@@ -1,0 +1,15 @@
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PMBLL.deps.json
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PMBLL.dll
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PMBLL.pdb
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PMBOL.dll
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PM_DAL.dll
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PMBOL.pdb
+D:\POSTMARKS2022\PMBLL\bin\Debug\netstandard2.0\PM_DAL.pdb
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.csproj.AssemblyReference.cache
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.AssemblyInfoInputs.cache
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.AssemblyInfo.cs
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.csproj.CoreCompileInputs.cache
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.csproj.CopyComplete
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.dll
+D:\POSTMARKS2022\PMBLL\obj\Debug\netstandard2.0\PMBLL.pdb
