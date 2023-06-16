@@ -1,0 +1,13 @@
+D:\POSTMARKS2022\PM_DAL\bin\Debug\netstandard2.0\PM_DAL.deps.json
+D:\POSTMARKS2022\PM_DAL\bin\Debug\netstandard2.0\PM_DAL.dll
+D:\POSTMARKS2022\PM_DAL\bin\Debug\netstandard2.0\PM_DAL.pdb
+D:\POSTMARKS2022\PM_DAL\bin\Debug\netstandard2.0\PMBOL.dll
+D:\POSTMARKS2022\PM_DAL\bin\Debug\netstandard2.0\PMBOL.pdb
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.csproj.AssemblyReference.cache
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.AssemblyInfoInputs.cache
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.AssemblyInfo.cs
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.csproj.CoreCompileInputs.cache
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.csproj.CopyComplete
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.dll
+D:\POSTMARKS2022\PM_DAL\obj\Debug\netstandard2.0\PM_DAL.pdb
